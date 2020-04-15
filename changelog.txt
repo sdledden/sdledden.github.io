@@ -1,3 +1,6 @@
+Version: 3.0.0
+  - The template was changed to match Sydney's website
+
 Version: 2.0.0
   - The template was rebuilt from scratch with the latest Bootstrap version (4.4.1)
   - Added SMPTP support for the contact form script (Pro)
